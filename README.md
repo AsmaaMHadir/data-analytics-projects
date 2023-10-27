@@ -10,4 +10,4 @@ Tools I use:
 
 # Projects outline:
 
-## 1- Tech Youtube Channels Analysis: Is there a correlation between the geographic location of a tech YouTube channel and the tech trends it covers? 
+## 1- [Tech Youtube Channels Analysis](https://github.com/AsmaaMHadir/data-analytics-projects/tree/main/Youtube%20Channels%20Analysis/notebooks): Is there a correlation between the geographic location of a tech YouTube channel and the tech trends it covers? 
