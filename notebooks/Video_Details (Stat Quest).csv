@@ -1,0 +1,793 @@
+,Title,PublishedDate,Views,Likes,Comments,Month
+0,Oblivious Transfer - Computerphile,2023-10-12,35581,1130,89,Oct
+1,Budget Self-Driving Car - Computerphile,2023-10-05,33701,1186,90,Oct
+2,How Bzip2 Works (Burrows Wheeler Transform) - Computerphile,2023-09-28,40982,1682,126,Sep
+3,CMPRSN (Compression Overview) - Computerphile,2023-09-19,58524,2252,147,Sep
+4,TETRA Vulnerability (TETRA:BURST) - Computerphile,2023-09-14,85098,2931,189,Sep
+5,Kernelless Kernel Programming (eBPF) - Computerphile,2023-09-07,58021,2196,176,Sep
+6,Turing Machine Alternative (Counter Machines) - Computerphile,2023-09-04,46325,1691,226,Sep
+7,"Graphs, Vectors and Machine Learning - Computerphile",2023-08-07,80397,2204,72,Aug
+8,Defining Harm for Ai Systems - Computerphile,2023-07-31,31985,1085,163,Jul
+9,Mike's Cube Code - Computerphile,2023-07-11,112193,4479,636,Jul
+10,Quantum Computing in Reality (Pt3: Beyond the Hype) - Computerphile,2023-07-06,49624,1218,59,Jul
+11,Power LED Attack - Computerphile,2023-06-29,236871,8938,490,Jun
+12,Quantum: Current State 2023 (Quantum pt2) - Computerphile,2023-06-15,42473,1055,58,Jun
+13,Four Principles of Quantum (Quantum pt1) - Computerphile,2023-06-08,57471,1884,121,Jun
+14,Ethernet (50th Birthday) - Computerphile,2023-05-31,115476,4341,225,May
+15,Non-Deterministic Automata - Computerphile,2023-05-26,44773,1380,111,May
+16,Discussing PDF@30 Years Old - Computerphile,2023-05-18,89903,3172,241,May
+17,LogJam Attack - Computerphile,2023-05-03,163133,6380,299,May
+18,Foundations of Data Visualisation - Computerphile,2023-04-13,69820,2272,82,Apr
+19,Acropalypse Now - Computerphile,2023-03-28,182063,7701,491,Mar
+20,Bing Chat Behaving Badly - Computerphile,2023-03-24,308091,12896,1403,Mar
+21,Automata & Python - Computerphile,2023-03-16,88847,2855,149,Mar
+22,Glitch Tokens - Computerphile,2023-03-07,299553,14814,993,Mar
+23,SenseMaking (Data Visualisation) - Computerphile,2023-03-03,42647,1592,86,Mar
+24,Rust and RAII Memory Management - Computerphile,2023-02-23,184752,6665,856,Feb
+25,Ch(e)at GPT? - Computerphile,2023-02-16,583364,17042,1094,Feb
+26,Legacy Code Conversion - Computerphile,2023-02-08,99409,3013,485,Feb
+27,ChatGPT with Rob Miles - Computerphile,2023-02-01,479133,15978,1065,Feb
+28,Garbage Collection (Mark & Sweep) - Computerphile,2023-01-20,206626,8842,474,Jan
+29,Emulation - Computerphile,2023-01-12,187824,6326,273,Jan
+30,Malware and Machine Learning - Computerphile,2023-01-06,71531,2046,82,Jan
+31,What do Computer Scientists Read? - Computerphile,2022-12-24,86004,3402,130,Dec
+32,MDE under the Hood (Model Driven Engineering) - Computerphile,2022-12-20,36811,915,75,Dec
+33,"Horrible, Helpful, http3 Hack - Computerphile",2022-12-14,78481,2930,353,Dec
+34,Verifying AI 'Black Boxes' - Computerphile,2022-12-08,60455,2559,138,Dec
+35,Just In Time (JIT) Compilers - Computerphile,2022-11-28,227088,9938,546,Nov
+36,Legged Robots - Computerphile,2022-11-16,39773,1327,58,Nov
+37,Encryption & Entropy - Computerphile,2022-11-09,56371,2066,86,Nov
+38,Network Time Protocol (NTP) - Computerphile,2022-11-04,163908,6254,267,Nov
+39,Markov Decision Processes - Computerphile,2022-10-25,129507,4051,111,Oct
+40,Stable Diffusion in Code (AI Image Generation) - Computerphile,2022-10-20,257282,9052,431,Oct
+41,Uses of Information Theory - Computerphile,2022-10-14,70799,2283,132,Oct
+42,How AI Image Generators Work (Stable Diffusion / Dall-E) - Computerphile,2022-10-04,769465,24648,733,Oct
+43,Model Driven Software Engineering - Computerphile,2022-09-21,90239,2853,243,Sep
+44,Alternative Uses for Blockchain - Computerphile,2022-09-13,136902,4256,329,Sep
+45,Knowledge Graphs - Computerphile,2022-09-07,85314,2785,64,Sep
+46,SLAM Robot Mapping - Computerphile,2022-08-31,100103,2739,129,Aug
+47,Coffee with Brian Kernighan - Computerphile,2022-08-16,181066,6224,325,Aug
+48,Automated Mathematical Proofs - Computerphile,2022-08-09,82036,2563,239,Aug
+49,Scratch? Python? C? Kernighan on Languages for Kids Coding - Computerphile,2022-08-02,140404,5350,586,Aug
+50,Tricking AI Image Recognition - Computerphile,2022-07-27,116053,4555,402,Jul
+51,Computing with Soft Robots - Computerphile,2022-07-21,50785,2105,69,Jul
+52,LaMDA Logic - Computerphile,2022-07-18,72504,2701,581,Jul
+53,Reverse Engineering - Computerphile,2022-07-08,174137,5985,309,Jul
+54,"No, it's not Sentient - Computerphile",2022-06-17,863173,32214,3762,Jun
+55,What's Virtual Memory? - Computerphile,2022-06-10,158930,4975,319,Jun
+56,Why Information Theory is Important - Computerphile,2022-05-25,133091,5669,148,May
+57,Breaking RSA - Computerphile,2022-05-10,318320,11909,386,May
+58,How WiFi Works - Computerphile,2022-05-02,185932,6361,202,May
+59,Psychic Signatures (Java Vulnerability) - Computerphile,2022-04-22,178967,6293,332,Apr
+60,Square & Multiply Algorithm - Computerphile,2022-04-14,255258,9618,306,Apr
+61,Automating Boston Dynamics Spot Robot - Computerphile,2022-04-06,90147,3106,208,Apr
+62,High Level Languages & the IBM 360 Series - Computerphile,2022-03-31,84810,3146,184,Mar
+63,Teamwork & Git - Computerphile,2022-03-25,96960,3297,257,Mar
+64,Apple M1 Ultra & NUMA - Computerphile,2022-03-18,252498,9627,401,Mar
+65,Mythical Man Month - Computerphile,2022-03-09,130390,5202,342,Mar
+66,Internet Congestion Collapse - Computerphile,2022-03-04,90997,3327,196,Mar
+67,Git Version Control _final_new_final.new - Computerphile,2022-02-25,59375,1944,119,Feb
+68,Inside the Hidden Git Folder - Computerphile,2022-02-11,187669,6408,316,Feb
+69,Metaverse is 30yrs old - Why Facebook is late to the party - Computerphile,2022-01-27,85344,2172,414,Jan
+70,K-d Trees - Computerphile,2022-01-21,212311,6823,227,Jan
+71,Man in the Middle & Needham–Schroeder Protocol - Computerphile,2022-01-07,67167,2266,155,Jan
+72,Git Overview - Computerphile,2021-12-30,183775,6174,383,Dec
+73,Log4J & JNDI Exploit: Why So Bad? - Computerphile,2021-12-22,483987,16033,1149,Dec
+74,Iterative Closest Point (ICP) - Computerphile,2021-12-15,126932,4515,244,Dec
+75,Sinclair Software & Manuals - Computerphile,2021-11-30,49551,1532,82,Nov
+76,Discussing System On Chip (SoC) - Computerphile,2021-11-22,193903,6297,313,Nov
+77,Depth Camera - Computerphile,2021-11-10,229425,8302,261,Nov
+78,Superposition in Quantum Computers - Computerphile,2021-10-26,178471,9135,698,Oct
+79,WiFi's Hidden ____ Problem - Computerphile,2021-10-19,591196,21985,991,Oct
+80,Saving the Universe (Simulation) - Computerphile,2021-10-15,88396,3477,176,Oct
+81,Why Did Facebook Go Down? - Computerphile,2021-10-05,882364,34683,2119,Oct
+82,Sir Clive Sinclair & British Computer Revolution - Computerphile,2021-09-24,65428,2600,175,Sep
+83,Bit Blit Algorithm (Amiga Blitter Chip) - Computerphile,2021-09-17,106741,3175,269,Sep
+84,Random Numbers with LFSR (Linear Feedback Shift Register) - Computerphile,2021-09-10,289841,11062,498,Sep
+85,Programming with Proofs - Computerphile,2021-09-03,74363,1768,204,Sep
+86,Hacking Out of a Network - Computerphile,2021-08-27,225211,7796,426,Aug
+87,Eliminating Run-Time Errors with Agda - Computerphile,2021-08-20,63204,1857,394,Aug
+88,Dealing With Big Data - Computerphile,2021-08-13,74292,2983,178,Aug
+89,(Not) Discussing the Web @ 30 Years Old - Computerphile,2021-08-06,59711,2633,171,Aug
+90,The Hardest Problem in Type Theory - Computerphile,2021-07-30,124962,3688,293,Jul
+91,TPM (Trusted Platform Module) - Computerphile,2021-07-23,203127,8034,1166,Jul
+92,Javascript Card Trick - Computerphile,2021-07-16,64965,2879,143,Jul
+93,Post Office Horizon Scandal - Computerphile,2021-07-09,98236,3284,415,Jul
+94,"Who's Telling the Truth? Using ""Gobble"" - Computerphile",2021-07-02,41269,1310,158,Jul
+95,Driverless Cars - Computerphile,2021-06-25,48614,2071,193,Jun
+96,Types of PDF - Computerphile,2021-06-18,126693,6594,396,Jun
+97,How bad is Exponential Growth? - Computerphile,2021-06-11,82535,3997,301,Jun
+98,Is DeepFake Really All That? - Computerphile,2021-06-04,130751,6719,508,Jun
+99,Recreating Dennis Ritchie's PhD Thesis - Computerphile,2021-05-28,174037,6614,320,May
+100,3D Printing with a Robot Arm - Computerphile,2021-05-21,49108,2092,134,May
+101,"Rog-O-Matic, Game Playing Program - Computerphile",2021-05-14,33972,1373,55,May
+102,Kidnapped Robot Problem - Computerphile,2021-05-06,115060,4374,180,May
+103,Why Files Become Bigger in Emails - Computerphile,2021-04-30,65125,2773,196,Apr
+104,Building a Data Center Inside Your Laptop - Computerphile,2021-04-23,76817,2796,133,Apr
+105,Cracking Enigma in 2021 - Computerphile,2021-04-12,2287138,46397,2037,Apr
+106,Atomic Brain? - Computerphile,2021-04-06,82034,4543,360,Apr
+107,Early Unix Computer Games - Computerphile,2021-03-30,68794,2773,225,Mar
+108,Reflections on Trusting Trust - Computerphile,2021-03-23,77152,4065,360,Mar
+109,How Shazam Works (Probably!) - Computerphile,2021-03-15,180458,7027,391,Mar
+110,When Unix Landed - Computerphile,2021-03-08,140513,6133,309,Mar
+111,Discussing node.js - Computerphile,2021-03-01,222999,9460,1091,Mar
+112,Chacha Cipher - Computerphile,2021-02-19,161665,6204,289,Feb
+113,Ubicomp (Ubiquitous Computing) - Computerphile,2021-02-12,33534,1054,78,Feb
+114,RFC (Request For Comment) Explained - Computerphile,2021-02-05,80064,2986,159,Feb
+115,How Traceroute Works (Building a Movie Scene 'Trace' Map) - Computerphile,2021-01-29,169764,7299,289,Jan
+116,"""Anonymous"" Location Data Problems - Computerphile",2021-01-22,62324,2791,176,Jan
+117,How NOT to Sample Audio! - Computerphile,2021-01-15,109542,6898,494,Jan
+118,Prime Numbers & RSA Encryption Algorithm - Computerphile,2021-01-08,151034,4183,155,Jan
+119,ALOHAnet: Grandfather of All Computer Networks - Computerphile,2020-12-30,62504,3186,142,Dec
+120,How the Computer Mouse Works - Computerphile,2020-12-23,90465,3990,233,Dec
+121,Brute Forcing The Countdown Numbers Game - Computerphile,2020-12-18,68214,2334,269,Dec
+122,What are Digital Signatures? - Computerphile,2020-12-11,278645,8319,236,Dec
+123,RWALL (Remote Write to All) - Computerphile,2020-12-04,43703,1947,130,Dec
+124,Program Correctness - Computerphile,2020-11-27,60827,2199,235,Nov
+125,Distance Vector Algorithm (Bellman Ford) - Computerphile,2020-11-20,82439,2687,113,Nov
+126,Random Boolean Networks - Computerphile,2020-11-13,61482,2527,225,Nov
+127,TLS Handshake Explained - Computerphile,2020-11-06,499925,12748,349,Nov
+128,The First Internet Worm (Morris Worm) - Computerphile,2020-10-30,96021,3662,159,Oct
+129,Transport Layer Security (TLS) - Computerphile,2020-10-23,433121,12179,292,Oct
+130,Facebook's Code Checker - Computerphile,2020-10-13,102999,3747,233,Oct
+131,Story of Mel - Computerphile,2020-10-07,50540,2194,165,Oct
+132,The Knapsack Problem & Genetic Algorithms - Computerphile,2020-10-01,200306,7728,265,Oct
+133,ALGOL 68 Instead of Pascal? - Computerphile,2020-09-24,50172,2256,121,Sep
+134,Enhancing Video Conferencing - Computerphile,2020-09-17,38331,1399,129,Sep
+135,Brain-Like (Neuromorphic) Computing - Computerphile,2020-09-10,162524,10088,641,Sep
+136,1111111111111111111111111111111 & Unix Epoch - Computerphile,2020-09-01,91224,4613,363,Sep
+137,Laziness in Python - Computerphile,2020-08-26,360016,12733,645,Aug
+138,What NOT to do: Self Modifying Code - Computerphile,2020-08-20,179863,6585,532,Aug
+139,Pascal (Not Just Nickel & Dime) - Computerphile,2020-08-14,55332,2465,198,Aug
+140,Mike Pound Q&A - Computerphile,2020-08-05,126786,5014,179,Aug
+141,"""Real"" Programmers & Drum Memory - Computerphile",2020-07-30,68175,2459,278,Jul
+142,DNS Cache Poisoning - Computerphile,2020-07-22,277584,10890,344,Jul
+143,How eBooks Work - Computerphile,2020-07-15,106985,3453,220,Jul
+144,How DNS Works - Computerphile,2020-07-09,430875,13864,518,Jul
+145,GPT3: An Even Bigger Language Model - Computerphile,2020-07-01,427415,12039,1441,Jul
+146,Slopes of Machine Learning - Computerphile,2020-06-26,71072,1697,92,Jun
+147,"Pong, Python & PyGame 11 - Computerphile",2020-06-17,36864,1117,82,Jun
+148,"Pong, Python & Pygame 10 - Computerphile",2020-06-16,37543,1175,100,Jun
+149,"Pong, Python & PyGame 01 - Computerphile",2020-06-11,59911,1846,118,Jun
+150,"Pong, Python & Pygame 00 - Computerphile",2020-06-10,89266,2643,149,Jun
+151,ALGOL 60 at 60 - Computerphile,2020-06-04,88216,3510,368,Jun
+152,Tail Recursion Explained - Computerphile,2020-05-27,157089,7294,524,May
+153,Modes of Operation - Computerphile,2020-05-21,202720,5984,229,May
+154,The Video Conferencing Problem - Computerphile,2020-05-14,179598,4515,319,May
+155,The Joys of Updating & Upgrading - Computerphile,2020-05-06,103080,4276,619,May
+156,Contact Tracing Technology - Computerphile,2020-04-30,104529,3398,448,Apr
+157,50 Years of Computer Science: Professor Brailsford Q&A - Computerphile,2020-04-22,91539,3314,154,Apr
+158,TCP Meltdown - Computerphile,2020-04-15,215740,7014,366,Apr
+159,Taming Kerberos - Computerphile,2020-04-08,307081,8874,482,Apr
+160,Curried Functions - Computerphile,2020-04-01,96262,3176,296,Apr
+161,VPN & Remote Working - Computerphile,2020-03-25,207295,5114,190,Mar
+162,Why My Computer Wants to Forget (How Dynamic Memory Works) - Computerphile,2020-03-18,83186,2917,210,Mar
+163,128 Bit or 256 Bit Encryption? - Computerphile,2020-03-13,315998,10920,564,Mar
+164,Nintendo NES FamiCom Creator - Computerphile,2020-03-11,97294,4117,237,Mar
+165,Coding Trees in Python - Computerphile,2020-03-04,306954,7877,490,Mar
+166,RegEx Roman Numerals - Computerphile,2020-02-27,84962,2518,270,Feb
+167,Feistel Cipher - Computerphile,2020-02-19,227517,9827,284,Feb
+168,How Autofocus Works - Computerphile,2020-02-14,206917,6273,264,Feb
+169,Python Sudoku Solver - Computerphile,2020-02-12,1172984,27490,1320,Feb
+170,Multi-Dimensional Data (as used in Tensors) - Computerphile,2020-02-07,141383,5061,193,Feb
+171,Functional Parsing - Computerphile,2020-02-05,126016,3961,352,Feb
+172,AI Safety Gym - Computerphile,2020-01-30,118169,3991,195,Jan
+173,Using Regular Expressions - Computerphile,2020-01-28,121044,3435,241,Jan
+174,Hello World on Sega Megadrive - Computerphile,2020-01-23,72137,2762,220,Jan
+175,Email Endianness Problems - Computerphile,2020-01-17,81705,2538,200,Jan
+176,Gaming Museum - Computerphile,2020-01-15,44451,1734,134,Jan
+177,Regular Expressions - Computerphile,2020-01-09,225685,7345,380,Jan
+178,Millennium Bug (20yrs on) - Computerphile,2019-12-30,191154,6066,564,Dec
+179,Tabs or Spaces? (Soundcheck Question) - Computerphile,2019-12-26,244467,8878,2099,Dec
+180,Alderson Loop - Computerphile,2019-12-21,113095,3123,272,Dec
+181,Erlang Programming Language - Computerphile,2019-12-17,236651,6918,434,Dec
+182,Yoda Parsing - Computerphile,2019-12-10,105152,3093,248,Dec
+183,Immutability - Computerphile,2019-12-04,95953,2819,243,Dec
+184,Parsing Bottom Up - Computerphile,2019-11-27,72551,1956,96,Nov
+185,AES Explained (Advanced Encryption Standard) - Computerphile,2019-11-22,1151805,23202,548,Nov
+186,One Encryption Standard to Rule Them All! - Computerphile,2019-11-20,413098,12120,405,Nov
+187,How Alexa Works (Probably!) - Computerphile,2019-11-15,139984,2543,212,Nov
+188,Parsing Explained - Computerphile,2019-11-13,225983,6108,186,Nov
+189,First Time on the Internet (Internet at 50) - Computerphile,2019-11-06,43533,1353,148,Nov
+190,First Contact (Internet at 50) - Computerphile,2019-11-04,34728,1170,85,Nov
+191,Digital Storytelling - Computerphile,2019-10-30,22660,724,19,Oct
+192,Vectoring Words (Word Embeddings) - Computerphile,2019-10-23,241658,9619,378,Oct
+193,Optic Flow Solutions - Computerphile,2019-10-18,43818,1233,42,Oct
+194,Optical Flow - Computerphile,2019-10-16,96027,2415,81,Oct
+195,Porting Compilers - Computerphile,2019-10-10,35145,1035,61,Oct
+196,Halting Problem in Python - Computerphile,2019-10-08,163152,4251,438,Oct
+197,Improving Intermediate Codes - Computerphile,2019-10-04,52816,1491,76,Oct
+198,Recursion 'Super Power' (in Python) - Computerphile,2019-10-01,479546,16143,897,Oct
+199,Computer Speeds - Computerphile,2019-09-27,160378,5013,210,Sep
+200,VR with 3D Printed Props - Computerphile,2019-09-24,30111,953,64,Sep
+201,OS Context Switching - Computerphile,2019-09-18,104797,2700,154,Sep
+202,The UNCOL Problem - Computerphile,2019-09-12,78008,2630,199,Sep
+203,'Accidental' CrossCompiler - Computerphile,2019-09-06,107330,3128,204,Sep
+204,Favourite Shortcut Key? (Soundcheck Question) - Computerphile,2019-09-03,246019,8402,1944,Sep
+205,Web 3.0 & Privacy - Computerphile,2019-08-30,88499,2830,165,Aug
+206,Packet Radio (Post Apocalyptic Internet?) - Computerphile,2019-08-28,168614,5512,433,Aug
+207,Raspberry Pi 4 on the Raspberry Pi 4 - Computerphile,2019-08-21,137912,3346,176,Aug
+208,Almost All Web Encryption Works Like This (SP Networks) - Computerphile,2019-08-14,230059,8144,278,Aug
+209,Multi Programming - Computerphile,2019-08-07,78743,3023,238,Aug
+210,"Zebras, Horses & CycleGAN - Computerphile",2019-08-01,117468,3840,179,Aug
+211,Before Raspberry Pi and Arduino - Computerphile,2019-07-30,139783,4793,205,Jul
+212,GPT-2: Why Didn't They Release It? - Computerphile,2019-07-24,180641,6706,472,Jul
+213,Self Compiling Compilers - Computerphile,2019-07-20,151807,4923,242,Jul
+214,"More GPT-2, the 'writer' of Unicorn AI - Computerphile",2019-07-17,75147,2812,267,Jul
+215,Data Analysis 9: Data Regression - Computerphile,2019-07-09,49222,1902,149,Jul
+216,Data Analysis 8: Classifying Data - Computerphile,2019-07-09,43014,1065,37,Jul
+217,Data Analysis 7: Clustering - Computerphile,2019-07-09,67586,1810,42,Jul
+218,Data Analysis 6: Principal Component Analysis (PCA) - Computerphile,2019-07-09,139035,4212,119,Jul
+219,Data Analysis 5: Data Reduction - Computerphile,2019-07-09,58847,1447,33,Jul
+220,Data Analysis 4: Data Transformation - Computerphile,2019-07-09,80746,1803,109,Jul
+221,Data Analysis 3: Cleaning Data - Computerphile,2019-07-09,90744,2135,64,Jul
+222,Data Analysis 2: Data Visualisation - Computerphile,2019-07-09,122233,3110,111,Jul
+223,Data Analysis 1: What is Data? - Computerphile,2019-07-09,154275,3884,158,Jul
+224,Data Analysis 0: Introduction to Data Analysis - Computerphile,2019-07-09,269018,7111,183,Jul
+225,Data Analysis - Computerphile,2019-07-09,172763,4871,112,Jul
+226,Unicorn AI - Computerphile,2019-07-04,360474,8405,457,Jul
+227,Low Spec Gaming - Computerphile,2019-07-02,157468,6689,265,Jul
+228,AI Language Models & Transformers - Computerphile,2019-06-26,308459,8374,289,Jun
+229,Fingerprint Recognition - Computerphile,2019-06-21,131029,3519,149,Jun
+230,Bootstrapping with T-Diagrams - Computerphile,2019-06-14,159849,4605,223,Jun
+231,Computing With Art - Computerphile,2019-06-07,48310,1760,158,Jun
+232,Dealing with Dynamic Data - Computerphile,2019-05-31,81905,2473,94,May
+233,PiDP-11 Retro Computer Build - Computerphile,2019-05-24,77932,2048,142,May
+234,What is Big Data? - Computerphile,2019-05-15,204851,6509,274,May
+235,"JSON, not Jason - Computerphile",2019-05-09,218483,5277,448,May
+236,GUI: Under the Hood - Computerphile,2019-05-03,150963,4120,269,May
+237,How Password Managers Work - Computerphile,2019-05-01,444717,13418,752,May
+238,Virtual Humans (Embodied Conversational Agents) - Computerphile,2019-04-26,36443,923,155,Apr
+239,Commodore 16 & The Worst Video Game? - Computerphile,2019-04-23,58502,1599,99,Apr
+240,GUI Programming Introduction - Computerphile,2019-04-17,201401,5623,361,Apr
+241,Commodore 116 - Computerphile,2019-04-11,49766,1286,79,Apr
+242,Error Diffusion Dithering - Computerphile,2019-04-09,75393,2537,100,Apr
+243,Active (Machine) Learning - Computerphile,2019-04-05,110655,3858,148,Apr
+244,ZX Spectrum Prototype - Computerphile,2019-04-03,60362,2064,126,Apr
+245,Ordered Dithering - Computerphile,2019-03-28,123809,4022,209,Mar
+246,Will Graphene Replace Silicon? - Computerphile,2019-03-25,216763,6645,314,Mar
+247,Hello (World) Abstraction! - Computerphile,2019-03-15,147598,3620,364,Mar
+248,Have You Been Pwned? - Computerphile,2019-03-12,470141,14403,732,Mar
+249,Floating Point Numbers (Part2: Fp Addition) - Computerphile,2019-03-05,52093,1494,68,Mar
+250,Floating Point Numbers (Part1: Fp vs Fixed) - Computerphile,2019-03-01,150222,3653,256,Mar
+251,Soft Robots - Computerphile,2019-02-26,132651,3262,393,Feb
+252,Deep Learned Super-Sampling (DLSS) - Computerphile,2019-02-22,414139,15129,723,Feb
+253,Reed Solomon Encoding - Computerphile,2019-02-20,173565,4721,147,Feb
+254,Parsing - Computerphile,2019-02-16,148376,3578,193,Feb
+255,Video Game & Complex Bokeh Blurs - Computerphile,2019-02-13,242345,8708,426,Feb
+256,Robotic Fish - Computerphile,2019-02-09,48103,1431,96,Feb
+257,Robot Snake - Computerphile,2019-02-06,110609,2900,246,Feb
+258,How Secure Shell Works (SSH) - Computerphile,2019-01-31,782981,17762,386,Jan
+259,What's Up With Group Messaging? - Computerphile,2019-01-29,249510,6837,336,Jan
+260,Hackspace Tour - Computerphile,2019-01-23,53487,1656,96,Jan
+261,Secure Copy Vulnerability (SCP) - Computerphile,2019-01-18,101226,2890,242,Jan
+262,Press Play on Tape (Bandersnatch) - Computerphile,2019-01-16,71054,2114,146,Jan
+263,X & the Book Code - Computerphile,2019-01-11,54839,1469,99,Jan
+264,Error Correction & International Book Codes - Computerphile,2019-01-02,80437,2493,159,Jan
+265,Additional Processors - Computerphile,2018-12-27,75174,2219,148,Dec
+266,Separable Filters and a Bauble - Computerphile,2018-12-21,101466,3299,167,Dec
+267,What's your Favourite Programming Language? (sound check Q) - Computerphile,2018-12-18,754441,19937,4483,Dec
+268,Multithreading Code - Computerphile,2018-12-14,363725,11972,551,Dec
+269,Apache Spark - Computerphile,2018-12-12,225045,5455,70,Dec
+270,Multiple Processor Systems - Computerphile,2018-12-07,151163,4417,250,Dec
+271,MapReduce - Computerphile,2018-12-04,233426,6696,62,Dec
+272,BEAST & The GPU Cluster - Computerphile,2018-11-28,73124,2081,193,Nov
+273,Double Ratchet Messaging Encryption - Computerphile,2018-11-23,153554,4342,229,Nov
+274,Endianness Explained With an Egg - Computerphile,2018-11-21,132199,4666,283,Nov
+275,How Signal Instant Messaging Protocol Works (& WhatsApp etc) - Computerphile,2018-11-16,481198,11081,388,Nov
+276,What's Behind Port Smash? - Computerphile,2018-11-13,71772,2024,170,Nov
+277,Infinite Data Structures: To Infinity & Beyond! - Computerphile,2018-11-06,102743,4495,476,Nov
+278,How Face ID Works... Probably - Computerphile,2018-11-01,281485,7608,397,Nov
+279,"eXploit X : ""Give Me Root"" - Computerphile",2018-10-30,149311,4444,423,Oct
+280,"Turing, Tutte & Tunny - Computerphile",2018-10-24,204625,3616,183,Oct
+281,Detecting Faces (Viola Jones Algorithm) - Computerphile,2018-10-19,359010,11496,280,Oct
+282,Hardware Hacking - Computerphile,2018-10-16,159794,3869,171,Oct
+283,Mini Battle Robot - Computerphile,2018-10-11,15208,407,35,Oct
+284,3D Light Cube - Computerphile,2018-10-11,18767,448,41,Oct
+285,AI & Logical Induction - Computerphile,2018-10-04,344334,8642,447,Oct
+286,High Speed Internet in a Field - Computerphile,2018-10-02,32072,1176,103,Oct
+287,"Discussion, Consumer Tech Stasis? - Computerphile",2018-09-27,30560,875,353,Sep
+288,Hacked Star Map - Computerphile,2018-09-25,43505,1625,111,Sep
+289,World's Biggest Drivable Hexapod Robot - Computerphile,2018-09-20,88413,2555,198,Sep
+290,Musical Glove - Computerphile,2018-09-17,29368,1064,74,Sep
+291,Why Build Colossus? (Bill Tutte) - Computerphile,2018-09-14,87497,2541,93,Sep
+292,GSM Phone on a Conference Badge - Computerphile,2018-09-11,36687,1097,102,Sep
+293,Laser Cut Music Box - Computerphile,2018-09-07,36310,1936,154,Sep
+294,Exploiting the Tiltman Break - Computerphile,2018-09-05,248808,4698,199,Sep
+295,Autodrive Project - Computerphile,2018-08-30,26028,744,121,Aug
+296,Code Libraries - Computerphile,2018-08-23,89599,2574,190,Aug
+297,Omnidirectional VR Treadmill - Computerphile,2018-08-15,287501,4131,319,Aug
+298,How Software Deals with Key Presses - Computerphile,2018-08-09,71079,1999,160,Aug
+299,What Happens When I Press a Key? - Computerphile,2018-08-07,239762,6140,353,Aug
+300,Using CP/M - Computerphile,2018-08-03,59689,1335,149,Aug
+301,Driverless Pods - Computerphile,2018-08-01,29497,806,109,Aug
+302,First Microcomputer OS: CP/M - Computerphile,2018-07-27,61021,1683,182,Jul
+303,Brian Kernighan Q&A 3/3 - Computerphile,2018-07-25,39887,1550,91,Jul
+304,Brian Kernighan Q&A 2/3 - Computerphile,2018-07-20,51263,1865,89,Jul
+305,Brian Kernighan Q&A - Computerphile,2018-07-18,76334,2540,167,Jul
+306,Video Streaming Problems - Computerphile,2018-07-13,97930,2565,206,Jul
+307,Inside a Crypto-Mining Operation - Computerphile,2018-07-10,58629,1977,484,Jul
+308,Where GREP Came From - Computerphile,2018-07-06,911970,33141,1069,Jul
+309,Atomic Auto-focus - Computerphile,2018-07-04,62661,2322,175,Jul
+310,Binary to BCD (Double Dabble Algorithm) - Computerphile,2018-06-28,72392,2437,151,Jun
+311,Crypto-jacking - Computerphile,2018-06-26,339780,9833,336,Jun
+312,Binary Coded Decimal (BCD) & Douglas Adams' 42 - Computerphile,2018-06-21,120733,3842,259,Jun
+313,Bitcoin Power Problem - Computerphile,2018-06-19,113521,3596,732,Jun
+314,Bitcoin Mining in 4 Minutes - Computerphile,2018-06-15,182769,4794,624,Jun
+315,Encoder Decoder Network - Computerphile,2018-06-13,131636,3614,90,Jun
+316,Deep Learning - Computerphile,2018-06-06,197083,5469,191,Jun
+317,Quantum Instruction Set - Computerphile,2018-06-01,202491,6356,513,Jun
+318,Current State of Quantum Computing - Computerphile,2018-05-30,151249,4546,350,May
+319,Save our Software - Computerphile,2018-05-24,87284,2640,237,May
+320,"Hello World (Assemblers, Considered Harmful?!) - Computerphile",2018-05-22,138454,3590,305,May
+321,Code vs Data (Metaprogramming) - Computerphile,2018-05-18,101817,3068,286,May
+322,"Lisp, The Quantum Programmer's Choice - Computerphile",2018-05-16,199117,6000,302,May
+323,AI Gridworlds - Computerphile,2018-05-10,122727,4292,216,May
+324,"IBM, EBCDIC & A Meg-In-A-Box - Computerphile",2018-05-08,41502,1632,187,May
+325,DEC PDP-11 & Zork - Computerphile,2018-05-04,88257,2421,324,May
+326,Where did Bytes Come From? - Computerphile,2018-05-01,467597,14200,499,May
+327,Atari 2600 VCS Programming - Computerphile,2018-04-27,225449,3291,258,Apr
+328,"GOTO, Goto & Goto - Computerphile",2018-04-24,110454,4427,412,Apr
+329,Radio Shack's TRS80 - Computerphile,2018-04-18,44744,1041,170,Apr
+330,"Privacy ""Underground"" - Computerphile",2018-04-12,57032,1746,80,Apr
+331,Why Bitcoin is Not Cash - Computerphile,2018-04-10,83268,2651,446,Apr
+332,Atari 2600 VCS & Adventure - Computerphile,2018-04-06,43719,1245,124,Apr
+333,Atomic Processing - Computerphile,2018-04-04,107237,3379,318,Apr
+334,"""War Games"" IMSAI 8080 - Computerphile",2018-03-28,57484,1367,96,Mar
+335,Stolen Bitcoin Tracing - Computerphile,2018-03-23,112706,3155,0,Mar
+336,Social Media Data - Computerphile,2018-03-21,62514,1950,160,Mar
+337,Cold Noses & Thermal Images - Computerphile,2018-03-15,32011,680,94,Mar
+338,Computers in Film & TV - Computerphile,2018-03-13,46048,1374,82,Mar
+339,Assembly Programming & Colour - Computerphile,2018-03-08,171727,4756,425,Mar
+340,Bootstrapping EDSAC: Initial Orders - Computerphile,2018-03-06,82662,2160,134,Mar
+341,Tanglewood Update - Computerphile,2018-02-28,49621,1526,66,Feb
+342,EDSAC Simulator - Computerphile,2018-02-21,120830,3299,264,Feb
+343,Elliptic Curve Back Door - Computerphile,2018-02-15,492823,13548,570,Feb
+344,Von Neumann Architecture - Computerphile,2018-02-13,604657,15900,518,Feb
+345,Diceware & Passwords - Computerphile,2018-02-09,299774,7599,695,Feb
+346,Wheeler Jump - Computerphile,2018-02-06,81941,2602,265,Feb
+347,Research & High Performance Computing - Computerphile,2018-01-31,56846,1520,114,Jan
+348,High Performance Computing (HPC) - Computerphile,2018-01-25,115777,2600,246,Jan
+349,Web Fonts - Computerphile,2018-01-23,67110,1738,122,Jan
+350,CPUs Are Out of Order - Computerphile,2018-01-19,184692,4806,332,Jan
+351,Elliptic Curves - Computerphile,2018-01-16,502691,12564,361,Jan
+352,Compaq Portable (Halt & Catch Fire) - Computerphile,2018-01-12,52383,1855,123,Jan
+353,The Archive (Centre For Computing History) - Computerphile,2018-01-09,40884,1383,132,Jan
+354,Spectre & Meltdown - Computerphile,2018-01-05,339672,10501,817,Jan
+355,Key Exchange Problems - Computerphile,2017-12-29,334914,9627,331,Dec
+356,Festive Fractals - Computerphile,2017-12-22,75725,2970,262,Dec
+357,Diffie Hellman -the Mathematics bit- Computerphile,2017-12-20,469141,16394,772,Dec
+358,Secret Key Exchange (Diffie-Hellman) - Computerphile,2017-12-15,878336,22825,582,Dec
+359,Bluetooth & Sync - Computerphile,2017-12-13,113962,3009,179,Dec
+360,Anti Bank-Fraud Technology - Computerphile,2017-12-08,60813,1579,155,Dec
+361,The Anonymisation Problem - Computerphile,2017-12-05,71153,2517,145,Dec
+362,Malware Overview - Computerphile,2017-12-01,81385,1982,128,Dec
+363,Net Neutrality - Computerphile,2017-11-29,98751,4050,505,Nov
+364,What is a Monad? - Computerphile,2017-11-24,561476,12581,1738,Nov
+365,MIDI & Digital Music Making - Computerphile,2017-11-22,68417,2242,240,Nov
+366,"Bitcoin, Blockchain Forks & Lightning - Computerphile",2017-11-17,92490,2386,248,Nov
+367,1978's Raspberry Pi (MK14) - Computerphile,2017-11-15,82375,2557,196,Nov
+368,World's First Webcam - Computerphile,2017-11-10,68557,3210,166,Nov
+369,Zero Knowledge Proofs - Computerphile,2017-11-08,199665,5391,314,Nov
+370,Computing Limit - Computerphile,2017-11-03,427978,13792,932,Nov
+371,Scaling Blockchains - Computerphile,2017-11-01,140899,4238,197,Nov
+372,Wildcards - Computerphile,2017-10-27,53772,1372,157,Oct
+373,Generative Adversarial Networks (GANs) - Computerphile,2017-10-25,625458,18000,693,Oct
+374,Krack Attacks (WiFi WPA2 Vulnerability) - Computerphile,2017-10-17,612984,12906,529,Oct
+375,Homotopy Type Theory Discussed - Computerphile,2017-10-13,63912,1477,95,Oct
+376,ESSENTIALS: Subroutines & The Wheeler Jump - Computerphile,2017-10-10,55027,1669,116,Oct
+377,Homotopy Type Theory: Vladimir Voevodsky  - Computerphile,2017-10-06,58764,1402,79,Oct
+378,AI YouTube Comments - Computerphile,2017-10-04,282736,8180,747,Oct
+379,Essentials: Hidden Pointers - Computerphile,2017-09-29,66209,1844,142,Sep
+380,Propositions as Types - Computerphile,2017-09-27,94706,2262,193,Sep
+381,Programming Loops vs Recursion - Computerphile,2017-09-22,1479230,37520,1106,Sep
+382,Selfie to 3D Model - Computerphile,2017-09-20,59133,1471,108,Sep
+383,Reacting to Social Media - Computerphile,2017-09-13,44252,899,85,Sep
+384,Cellphones & Big Data - Computerphile,2017-09-08,60183,1174,107,Sep
+385,Designing Software for Collaboration - Computerphile,2017-09-06,47577,911,63,Sep
+386,Triple Ref Pointers - Computerphile,2017-09-01,147077,4319,404,Sep
+387,2FA: Two Factor Authentication - Computerphile,2017-08-30,494484,10948,371,Aug
+388,Why C is so Influential - Computerphile,2017-08-25,1928921,31204,1685,Aug
+389,Securing Stream Ciphers (HMAC) - Computerphile,2017-08-23,291568,7087,220,Aug
+390,Essentials: Pointer Power! - Computerphile,2017-08-18,451382,12833,688,Aug
+391,Essentials: Functional Programming's Y Combinator - Computerphile,2017-08-16,305874,7177,547,Aug
+392,Essentials: Brian Kernighan on Associative Arrays - Computerphile,2017-08-11,125823,4217,332,Aug
+393,Stop Button Solution? - Computerphile,2017-08-03,471755,12493,1132,Aug
+394,GNU/Linux & Video Editing - Computerphile,2017-07-28,143973,3455,662,Jul
+395,Fake News Consumers - Computerphile,2017-07-26,71693,1509,408,Jul
+396,Now Hiring? (What Computing Companies Look For) - Computerphile,2017-07-20,133703,3420,366,Jul
+397,Reason for ARM (Acorn Archimedes at 30) - Computerphile,2017-07-16,149913,3561,272,Jul
+398,Arrays vs Linked Lists - Computerphile,2017-07-11,483526,10378,922,Jul
+399,Optical Character Recognition (OCR) - Computerphile,2017-07-04,183247,5315,218,Jul
+400,Sun Server Restoration (Update) - Computerphile,2017-07-01,68857,1914,133,Jul
+401,iPhone at Ten - Computerphile,2017-06-29,92828,1608,232,Jun
+402,AI? Just Sandbox it... - Computerphile,2017-06-23,261892,8092,971,Jun
+403,"""Code"" Books (Prof Brian Kernighan) - Computerphile",2017-06-21,181618,4268,133,Jun
+404,Sun Microsystems (Re-Encode) - Computerphile,2017-06-21,75041,1660,94,Jun
+405,Concrete Problems in AI Safety (Paper) - Computerphile,2017-06-16,199658,5600,241,Jun
+406,Bell Labs' Research (Prof Brian Kernighan) - Computerphile,2017-06-14,83384,2720,129,Jun
+407,TOR Hidden Services - Computerphile,2017-06-09,1251758,22470,736,Jun
+408,Brain Controlled Movie - Computerphile,2017-06-06,55259,1167,118,Jun
+409,How TOR Works- Computerphile,2017-05-31,1688500,41150,1374,May
+410,Computer Connections - Computerphile,2017-05-26,111643,2391,117,May
+411,Sound Recognition - Computerphile,2017-05-24,110559,2371,155,May
+412,How WanaCrypt Encrypts Your Files - Computerphile,2017-05-19,362312,9520,629,May
+413,Wana Decrypt0r (Wanacry Ransomware) - Computerphile,2017-05-15,1504040,31732,2068,May
+414,Internet of Things Problems - Computerphile,2017-05-12,153882,4404,265,May
+415,Data Harvesting Problem - Computerphile,2017-05-09,113275,2443,182,May
+416,Digital Audio Compression - Computerphile,2017-05-05,98555,2173,150,May
+417,MegaProcessor - Computerphile,2017-05-02,383352,16469,942,May
+418,"Magic ""Nothing Up My Sleeve"" Numbers - Computerphile",2017-04-19,170632,4612,213,Apr
+419,Avoid the Middle-Man (Smart Contracts) - Computerphile,2017-04-13,81652,1443,60,Apr
+420,SHA: Secure Hashing Algorithm - Computerphile,2017-04-11,1173182,21320,594,Apr
+421,Reed-Muller Code (64 Shades of Grey pt2) - Computerphile,2017-04-07,61414,1534,121,Apr
+422,64 Shades of Martian Grey - Computerphile,2017-04-05,78766,2506,157,Apr
+423,End to End Encryption (E2EE) - Computerphile,2017-03-30,728082,15033,658,Mar
+424,The Blockchain & Bitcoin - Computerphile,2017-03-24,274924,5784,484,Mar
+425,Inside the CPU - Computerphile,2017-03-22,349281,8195,280,Mar
+426,Microsoft Hololens - Computerphile,2017-03-16,169676,4317,365,Mar
+427,Google Tango - Computerphile,2017-03-14,117371,2755,146,Mar
+428,The Perfect Code - Computerphile,2017-03-08,571699,12934,449,Mar
+429,"AI ""Stop Button"" Problem - Computerphile",2017-03-03,1333578,33336,5331,Mar
+430,General AI Won't Want You To Fix its Code - Computerphile,2017-02-28,400155,11198,969,Feb
+431,Maze Solving - Computerphile,2017-02-24,1163904,24784,1004,Feb
+432,Correcting Those Errors - Computerphile,2017-02-21,65966,1595,86,Feb
+433,Augmented Reality & Wargaming - Computerphile,2017-02-17,46637,1095,62,Feb
+434,A* (A Star) Search Algorithm - Computerphile,2017-02-15,1085066,22515,664,Feb
+435,3D Scanning - Computerphile,2017-02-10,53844,1525,106,Feb
+436,Multiple Dimension Error Correction - Computerphile,2017-02-08,108552,2825,195,Feb
+437,Digital Theatre Props - Computerphile,2017-02-03,43999,948,30,Feb
+438,Implementation - Computerphile,2017-02-01,64413,1885,76,Feb
+439,Lambda Calculus - Computerphile,2017-01-27,972636,24714,1196,Jan
+440,The Portable 'Speccy' - Computerphile,2017-01-25,43608,954,51,Jan
+441,Linked Lists - Computerphile,2017-01-20,197927,6009,406,Jan
+442,Code Checking Automation - Computerphile,2017-01-18,124113,4256,272,Jan
+443,"Program, Interrupted - Computerphile",2017-01-13,116539,3235,243,Jan
+444,Computer Science ∩ Mathematics (Type Theory) - Computerphile,2017-01-11,254181,6081,466,Jan
+445,Funky Music from Functional Programming - Computerphile,2017-01-06,69018,1427,111,Jan
+446,Dijkstra's Algorithm - Computerphile,2017-01-04,1293811,29214,663,Jan
+447,The Dreaded 404 - Computerphile,2016-12-28,115826,2343,198,Dec
+448,Videogame Legends - Computerphile,2016-12-23,44487,1792,92,Dec
+449,Computer Science's Wonder Woman: Ada Lovelace - Computerphile,2016-12-21,79275,2628,92,Dec
+450,Game Physics (in Assembler) - Computerphile,2016-12-15,706598,17194,822,Dec
+451,Games as Medicine - Computerphile,2016-12-09,39195,1224,90,Dec
+452,Babbage's Puzzle - Computerphile,2016-12-07,71557,2251,98,Dec
+453,Sega Game Coding in Assembly - Computerphile,2016-12-02,323933,10920,682,Dec
+454,Functional Programming & Haskell - Computerphile,2016-11-30,637345,16597,705,Nov
+455,Origins of the Web - Computerphile,2016-11-25,65854,1976,115,Nov
+456,Bicubic Interpolation - Computerphile,2016-11-23,253956,6428,281,Nov
+457,Sorting Secret - Computerphile,2016-11-18,229067,7257,435,Nov
+458,Babbage's Analytical Engine - Computerphile,2016-11-16,208157,4900,290,Nov
+459,Quantum Computing 'Magic' - Computerphile,2016-11-11,294286,7180,526,Nov
+460,Slow Loris Attack - Computerphile,2016-11-09,1075111,34616,1120,Nov
+461,Videogames with Simple Controls - Computerphile,2016-11-04,48994,991,91,Nov
+462,Cracking Windows by Atom Bombing - Computerphile,2016-11-02,334995,7098,488,Nov
+463,Explaining Dirty Cow - Computerphile,2016-10-28,199266,4063,298,Oct
+464,Dirty Cow Demo - Computerphile,2016-10-26,97609,2175,218,Oct
+465,Zero Size Files - Computerphile,2016-10-21,333776,7543,433,Oct
+466,Sinclair & The ZX Spectrum - Computerphile,2016-10-19,59934,1381,115,Oct
+467,Computing & Radar Displays - Computerphile,2016-10-12,53701,1408,74,Oct
+468,Computing & Air Traffic Control - Computerphile,2016-10-07,73895,2242,108,Oct
+469,BBC Domesday (1980's Google Street View) - Computerphile,2016-10-05,90260,2087,175,Oct
+470,PDF Workflow - Computerphile,2016-09-30,121945,3146,175,Sep
+471,IBM PC - Computerphile,2016-09-28,102010,2573,230,Sep
+472,Satellite Navigation - Computerphile,2016-09-21,84921,2358,164,Sep
+473,"PDF, What is it FOR? - Computerphile",2016-09-16,431219,12742,631,Sep
+474,K-means & Image Segmentation - Computerphile,2016-09-14,286980,6696,243,Sep
+475,Fire Pong Details - Computerphile,2016-09-09,38560,712,41,Sep
+476,Fire Pong (Rule Zero) - Computerphile,2016-09-07,85987,2247,112,Sep
+477,Resizing Images - Computerphile,2016-09-02,454494,10997,410,Sep
+478,Unrolling the Loops - Computerphile,2016-08-31,131642,3379,170,Aug
+479,Deep Dream (Google) - Computerphile,2016-08-26,656172,13825,624,Aug
+480,Micropython Name Badge - Computerphile,2016-08-24,122425,3655,350,Aug
+481,Physics of Computer Chips - Computerphile,2016-08-19,608545,15597,705,Aug
+482,The Interlaced Video Problem - Computerphile,2016-08-17,209765,3922,478,Aug
+483,FPS & Digital Video - Computerphile,2016-08-11,85211,2059,480,Aug
+484,Retro Computer Kit - Computerphile,2016-08-05,81195,1747,135,Aug
+485,Mobile Interface Problems - Computerphile,2016-08-02,83197,1669,360,Aug
+486,Saving Bletchley Park - Computerphile,2016-07-27,43351,1172,137,Jul
+487,The Game about Games - Computerphile,2016-07-22,87219,2752,133,Jul
+488,How to Choose a Password - Computerphile,2016-07-20,1196176,24724,2594,Jul
+489,Discussing Pokémon GO - Computerphile,2016-07-15,169539,2613,499,Jul
+490,Password Cracking - Computerphile,2016-07-13,3424678,70233,4752,Jul
+491,Gamer's Paradise - Computerphile,2016-07-08,96318,3018,314,Jul
+492,Turing Complete - Computerphile,2016-07-05,289885,8116,376,Jul
+493,Inside a Neural Network - Computerphile,2016-06-30,419303,8293,312,Jun
+494,HTML IS a Programming Language (Imperative vs Declarative) - Computerphile,2016-06-28,186568,5685,904,Jun
+495,The Social Media Bubble - Computerphile,2016-06-24,74013,1760,202,Jun
+496,Secrets of the Deep Dark Web (Deep Dark Web Pt2) - Computerphile,2016-06-22,1600090,17927,1105,Jun
+497,Web vs Internet (Deep Dark Web Pt1) - Computerphile,2016-06-17,470661,7690,285,Jun
+498,Running an SQL Injection Attack - Computerphile,2016-06-15,4451119,87112,2188,Jun
+499,Nascom 2 & Sharing the TV - Computerphile,2016-06-10,68253,887,53,Jun
+500,Apple 2 Floppy Disk Codes - Computerphile,2016-06-07,77699,1926,169,Jun
+501,Software Defined Networking - Computerphile,2016-06-03,92947,2392,163,Jun
+502,Cookie Stealing - Computerphile,2016-06-01,1162236,21178,833,Jun
+503,Where HTML beats C? - Computerphile,2016-05-27,609621,12864,1118,May
+504,Magnetic Media (Floppies and Tapes) - Computerphile,2016-05-25,82032,2164,213,May
+505,CNN: Convolutional Neural Networks Explained - Computerphile,2016-05-20,828591,13845,500,May
+506,Anti-Counterfeiting & Conductive Inks - Computerphile,2016-05-17,79720,1980,149,May
+507,Space Carving - Computerphile,2016-05-12,254167,4491,321,May
+508,Crazy Text & Security Printing - Computerphile,2016-05-06,63812,1516,219,May
+509,BGP: Border Gateway Protocol - Computerphile,2016-05-04,120539,2909,189,May
+510,EXTRA BITS: SGML HTML XML - Computerphile,2016-04-29,58624,1725,96,Apr
+511,Paxos Agreement - Computerphile,2016-04-27,125277,2644,45,Apr
+512,HTML: Poison or Panacea? (HTML Part2) - Computerphile,2016-04-22,180442,5600,367,Apr
+513,Deep Learning - Computerphile,2016-04-19,427831,7056,371,Apr
+514,Internet Censorship Explained - Computerphile,2016-04-15,247406,3446,60,Apr
+515,SGML HTML XML What's the Difference? (Part 1) - Computerphile,2016-04-13,231746,5912,233,Apr
+516,DJ Marco and Working for Apple - Computerphile,2016-04-09,60358,1298,82,Apr
+517,The Indie Advantage (and criticism) - Computerphile,2016-04-08,61513,1775,101,Apr
+518,Marco's Set-Up - Computerphile,2016-04-05,116195,2816,255,Apr
+519,Life of an Indie App Developer  - Computerphile,2016-04-05,236211,5132,196,Apr
+520,Botnets - Computerphile,2016-03-30,215325,5047,77,Mar
+521,AI's Game Playing Challenge - Computerphile,2016-03-24,737918,14014,792,Mar
+522,Secure Web Browsing - Computerphile,2016-03-22,195835,4241,160,Mar
+523,AlphaGo & Deep Learning - Computerphile,2016-03-18,315982,4590,426,Mar
+524,Pong & Object Oriented Programming - Computerphile,2016-03-16,260891,5733,533,Mar
+525,Mixed Reality Continuum - Computerphile,2016-03-10,63773,1866,133,Mar
+526,The Golden Key: FBI vs Apple iPhone - Computerphile,2016-03-04,365027,10622,547,Mar
+527,Running a Buffer Overflow Attack - Computerphile,2016-03-02,1986670,43331,1253,Mar
+528,Stereo 3D Vision (How to avoid being dinner for Wolves) - Computerphile,2016-02-24,137813,3367,128,Feb
+529,Mobile Chip Design - Computerphile,2016-02-19,89652,2388,130,Feb
+530,Raspberry Pi Lego Robot - Computerphile,2016-02-17,86549,1600,169,Feb
+531,Bitcoin Problems - Computerphile,2016-02-12,321984,5647,819,Feb
+532,"Same Story, Different Notation - Computerphile",2016-02-10,77073,2255,122,Feb
+533,Structure from Motion Octocopter - Computerphile,2016-02-05,55684,1536,138,Feb
+534,AI Safety - Computerphile,2016-02-03,192506,5745,572,Feb
+535,Angle Brackets - Computerphile,2016-01-29,168551,3565,153,Jan
+536,Hardware vs Software & Digital Video - Computerphile,2016-01-27,54970,1843,122,Jan
+537,3D Rock Art Scanner - Computerphile,2016-01-22,42142,1278,116,Jan
+538,Computers Without Memory - Computerphile,2016-01-20,328765,7747,459,Jan
+539,ARM Don't Make Computer Chips - Computerphile,2016-01-15,260336,5971,380,Jan
+540,Chomsky Hierarchy - Computerphile,2016-01-13,226978,5442,251,Jan
+541,Code Golf & the Bitshift Variations - Computerphile,2016-01-08,139586,4668,365,Jan
+542,Brain Scanner - Computerphile,2016-01-05,56868,1424,75,Jan
+543,Search Engine Relevance - Computerphile,2015-12-29,72425,1691,114,Dec
+544,CPU vs GPU (What's the Difference?) - Computerphile,2015-12-22,862429,18285,531,Dec
+545,Industrial Light-field Magic - Computerphile,2015-12-17,97322,2062,56,Dec
+546,What Was Your 1st Computer? - Computerphile,2015-12-14,111323,2349,761,Dec
+547,How Bitcoin Works - Computerphile,2015-12-09,408703,7676,743,Dec
+548,Why Use Binary? - Computerphile,2015-12-04,658209,13096,522,Dec
+549,Raspberry Pi Zero - the $5 Computer - Computerphile,2015-12-01,316601,6935,549,Dec
+550,Light-field Camera - Computerphile,2015-11-27,199165,4969,282,Nov
+551,Pixel Noise (Music from Images) - Computerphile,2015-11-25,100189,2847,373,Nov
+552,Why do CPUs Need Caches? - Computerphile,2015-11-20,305836,7557,329,Nov
+553,TLU Three Letter Username Obsession - Computerphile,2015-11-18,172966,3372,398,Nov
+554,Unix Pipeline (Brian Kernighan) - Computerphile,2015-11-13,207124,5305,260,Nov
+555,Canny Edge Detector - Computerphile,2015-11-11,340047,6115,127,Nov
+556,Why Asimov's Laws of Robotics Don't Work - Computerphile,2015-11-06,850218,25250,2784,Nov
+557,Finding the Edges (Sobel Operator) - Computerphile,2015-11-04,466964,9737,391,Nov
+558,Consensus & Organising Coffee - Computerphile,2015-10-28,70371,1239,104,Oct
+559,How Digital Audio Works - Computerphile,2015-10-26,254626,6258,487,Oct
+560,Man in the Middle Attacks & Superfish - Computerphile,2015-10-23,1019518,23595,797,Oct
+561,Faces & the Local Binary Pattern - Computerphile,2015-10-21,109683,1998,72,Oct
+562,Connecting Universities - Computerphile,2015-10-16,48645,718,78,Oct
+563,Chip & PIN Fraud Explained - Computerphile,2015-10-14,836491,12075,744,Oct
+564,The Trouble with Missing Data - Computerphile,2015-10-09,67819,1162,91,Oct
+565,Why Do We Need IP Addresses? - Computerphile,2015-10-07,123617,2215,154,Oct
+566,How Blurs & Filters Work - Computerphile,2015-10-02,530437,12096,259,Oct
+567,UNIX Special: Profs Kernighan & Brailsford - Computerphile,2015-09-30,323172,6504,286,Sep
+568,Page Ranking and Search Engines - Computerphile,2015-09-25,128961,2116,178,Sep
+569,"Anti-Learning (So Bad, it's Good) - Computerphile",2015-09-23,203721,3905,301,Sep
+570,Zig Zag Decryption - Computerphile,2015-09-16,212645,3551,130,Sep
+571,Empty Data Centre - Computerphile,2015-09-14,76690,1008,87,Sep
+572,Inside a Data Centre - Computerphile,2015-09-09,190461,3390,284,Sep
+573,The Singularity & Friendly AI? - Computerphile,2015-09-04,218194,4906,697,Sep
+574,Machine Learning Methods - Computerphile,2015-09-02,205346,4211,109,Sep
+575,Geometric Face Recognition - Computerphile,2015-08-28,87899,1662,125,Aug
+576,"Silicon Brain: 1,000,000 ARM cores - Computerphile",2015-08-25,273565,5675,710,Aug
+577,Why Don Knuth Doesn't Use Email - Computerphile,2015-08-21,205529,3634,213,Aug
+578,"""C"" Programming Language: Brian Kernighan - Computerphile",2015-08-18,1826817,29983,1080,Aug
+579,How Search Engines Treat Data - Computerphile,2015-08-12,129829,3265,129,Aug
+580,Wobbly RAM & ZX81 Drawbacks - Computerphile,2015-08-07,57489,1197,86,Aug
+581,Secrets Hidden in Images (Steganography) - Computerphile,2015-08-04,1239354,25007,646,Aug
+582,Could We Ban Encryption? - Computerphile,2015-07-31,176393,5264,414,Jul
+583,The Factory of Ideas: Working at Bell Labs - Computerphile,2015-07-28,184115,5374,182,Jul
+584,AI Self Improvement - Computerphile,2015-07-24,419414,11061,1038,Jul
+585,Captain Buzz pt2: Smart Watches and Latency - Computerphile,2015-07-22,42152,1121,83,Jul
+586,Captain Buzz: Smartphone Pilot - Computerphile,2015-07-17,51564,1497,137,Jul
+587,1966 Computing Power (Elliott 903) - Computerphile,2015-07-15,121993,2923,270,Jul
+588,Mouse Pointers & Fitts's Law - Computerphile,2015-07-10,474448,11588,807,Jul
+589,Smile Detection - Computerphile,2015-07-08,67397,1393,81,Jul
+590,How GCHQ Classifies Computer Security - Computerphile,2015-07-03,72483,1378,136,Jul
+591,Fishy Codes: Bletchley's Other Secret - Computerphile,2015-07-01,216704,3746,137,Jul
+592,Arduino Programs & Sketches- Computerphile,2015-06-26,67175,1238,71,Jun
+593,Why ARM Owes Apple - Computerphile,2015-06-24,111020,2070,93,Jun
+594,Inside the Computer (EDSAC) - Computerphile,2015-06-19,134739,2937,177,Jun
+595,Deadly Truth of General AI? - Computerphile,2015-06-17,902241,21386,1977,Jun
+596,People's Computer: Sinclair ZX81 - Computerphile,2015-06-12,78141,2128,200,Jun
+597,The Problem with JPEG - Computerphile,2015-06-09,588741,11112,427,Jun
+598,Illegal Immigration & the Known Unknowns - Computerphile,2015-06-05,66327,1297,174,Jun
+599,"Apple's $200,000 Computer - Computerphile",2015-06-02,182136,2949,216,Jun
+600,Colossus & Bletchley Park - Computerphile,2015-05-28,240688,5375,210,May
+601,"JPEG DCT, Discrete Cosine Transform (JPEG Pt2)- Computerphile",2015-05-22,608814,14124,647,May
+602,IT Crowd Altair - Lifting the Lid - Computerphile,2015-05-19,69460,1626,100,May
+603,Computer That Changed Everything (Altair 8800) - AUDIO FIX - Computerphile,2015-05-19,65205,1214,60,May
+604,The Computer That Changed Everything (Altair 8800) - Computerphile,2015-05-15,130632,1790,104,May
+605,Nuggets of Data Gold - Computerphile,2015-05-13,93222,2132,93,May
+606,Computing Aladdin's Cave - Computerphile,2015-05-06,96907,2141,193,May
+607,Holy Grail of AI (Artificial Intelligence) - Computerphile,2015-05-01,519125,9205,492,May
+608,EDSAC Rebuild (Cambridge University's 1st Computer) - Computerphile,2015-04-29,48681,1301,55,Apr
+609,ARM Processor - Sowing the Seeds of Success - Computerphile,2015-04-24,269957,6375,302,Apr
+610,JPEG 'files' & Colour (JPEG Pt1)- Computerphile,2015-04-21,364838,6385,188,Apr
+611,Arduino Hardware - Computerphile,2015-04-17,164005,2949,158,Apr
+612,Total Recall (Memory Addressing Pt2) - Computerphile,2015-04-15,49038,944,58,Apr
+613,Colourspaces (JPEG Pt0)- Computerphile,2015-04-10,238190,5649,202,Apr
+614,Wearables and Augmented Reality - Computerphile,2015-04-03,38214,747,56,Apr
+615,5 Hole Paper Tape - Computerphile,2015-03-31,129088,2924,205,Mar
+616,EXTRA BITS - BBC Micro and Teletext - Computerphile,2015-03-30,32165,657,46,Mar
+617,Building the BBC Micro (The Beeb) - Computerphile,2015-03-25,153916,2667,169,Mar
+618,Augmented Reality (AR) - Computerphile,2015-03-20,43163,857,90,Mar
+619,XOR & the Half Adder - Computerphile,2015-03-18,244872,6165,321,Mar
+620,3D & Multiple Dimensions in Digital Images - Computerphile,2015-03-13,74015,1575,114,Mar
+621,The Path Towards ARM & BBC B - Computerphile,2015-03-10,130908,2241,81,Mar
+622,AND OR NOT - Logic Gates Explained - Computerphile,2015-03-06,409471,8816,422,Mar
+623,True Colour of 'The Dress' #thedress (colours in digital images) - Computerphile,2015-02-27,209035,4489,586,Feb
+624,Addressing Memory (Pt1) - Computerphile,2015-02-26,108466,1845,80,Feb
+625,Capturing Digital Images (The Bayer Filter) - Computerphile,2015-02-22,194707,5255,175,Feb
+626,Pushing the Atari Limits - Computerphile,2015-02-18,217772,3575,280,Feb
+627,Digital Images - Computerphile,2015-02-15,154574,3164,192,Feb
+628,Atari ST: Accidental Musical Workhorse - Computerphile,2015-02-10,107892,2117,203,Feb
+629,The Turing Test - Computerphile,2015-02-05,217640,4882,336,Feb
+630,Indie Games & the Fourth Dimension - Computerphile,2015-02-02,106833,4217,525,Feb
+631,Binary: Plusses & Minuses (Why We Use Two's Complement) - Computerphile,2015-01-28,382710,10258,533,Jan
+632,EXTRA BITS: Building a Supercomputer and Astrophysics - Computerphile,2015-01-23,43362,859,59,Jan
+633,Supercomputer and the Milky Way - Computerphile,2015-01-21,69456,2078,271,Jan
+634,Binary Addition & Overflow - Computerphile,2015-01-16,120348,2896,151,Jan
+635,More from Numberphile's Pixar Video - Computerphile,2015-01-14,77976,2216,89,Jan
+636,"Flip Flops, Latches & Memory Details - Computerphile",2015-01-09,143495,2527,118,Jan
+637,"Enigma, TypeX and Dad - Computerphile",2015-01-07,172886,3456,118,Jan
+638,EXTRA BITS: More on 3D X-Ray Imaging - Computerphile,2015-01-02,19274,401,28,Jan
+639,3d X-Ray Images - Computerphile,2014-12-31,48433,992,92,Dec
+640,Festive Flashing Lights - Computerphile,2014-12-22,126014,1239,106,Dec
+641,Why Electronic Voting is a BAD Idea - Computerphile,2014-12-18,2211002,65443,6056,Dec
+642,How Gangnam Style Broke YouTube - Computerphile,2014-12-12,377320,5072,616,Dec
+643,Tackling Enigma (Turing's Enigma Problem Part 2) - Computerphile,2014-12-09,624698,9636,365,Dec
+644,What Happens When You Click a Link? - Computerphile,2014-12-01,194878,3608,122,Dec
+645,Turing's Enigma Problem (Part 1) - Computerphile,2014-11-28,1331225,16221,586,Nov
+646,Where's the Money in Free Software? - Computerphile,2014-11-25,178166,2996,206,Nov
+647,Why Internet Slows Down When it's Busy - Computerphile,2014-11-19,177745,2557,211,Nov
+648,EXTRA BITS - Swim Tracking App - Computerphile,2014-11-17,13001,190,10,Nov
+649,"Video Editing with Free Software (Accompanies ""Free Software"" video) - Computerphile",2014-11-14,65704,1656,325,Nov
+650,Free Software (made with free software) - Computerphile,2014-11-12,85839,1916,418,Nov
+651,Swim Tracking App - Computerphile,2014-11-06,29760,558,75,Nov
+652,Technicalities of Net Neutrality - Computerphile,2014-11-03,62466,1474,136,Nov
+653,EXTRA BITS - More on Crowd-Sourced Sports Coverage - Computerphile,2014-10-31,13541,231,22,Oct
+654,Crowd-Sourced Sports Coverage - Computerphile,2014-10-29,27782,681,59,Oct
+655,"Routers, The Internet & YouTube Offline - Computerphile",2014-10-23,190781,3658,192,Oct
+656,EXTRA BITS - More on E-Reader Text Layouts - Computerphile,2014-10-17,45786,1256,110,Oct
+657,The Kindle Text Problem - Computerphile,2014-10-15,328202,5515,367,Oct
+658,Turing Meets Paradoxes (History of Undecidability Part 3) - Computerphile,2014-10-09,111666,2324,169,Oct
+659,Shellshock Code & the Bash Bug - Computerphile,2014-10-06,122478,2574,156,Oct
+660,Blogging Guitar - Computerphile,2014-10-03,74570,787,61,Oct
+661,Barber & Russell Paradoxes (History of Undecidability Part 2) - Computerphile,2014-09-29,141357,3330,305,Sep
+662,A New Perspective (Multi-Person 3D system) - Computerphile,2014-09-26,54160,1622,84,Sep
+663,"Piracy, Pictures and Metadata - Computerphile",2014-09-23,73405,1303,121,Sep
+664,Undecidability Tangent (History of Undecidability Part 1) - Computerphile,2014-09-19,160785,3715,223,Sep
+665,"Rabbits, Faces & Hyperspaces - Computerphile",2014-09-17,193908,4788,197,Sep
+666,How Broadband ADSL Works - Computerphile,2014-09-13,169625,2978,177,Sep
+667,Hill Climbing Algorithm & Artificial Intelligence - Computerphile,2014-09-09,391536,8788,382,Sep
+668,Turing Machine Primer - Computerphile,2014-09-04,150978,2707,32,Sep
+669,Busy Beaver Turing Machines - Computerphile,2014-09-02,380392,7188,456,Sep
+670,Turing Machines Explained - Computerphile,2014-08-29,1015937,17051,789,Aug
+671,Avatars & In-Flight VR - Computerphile,2014-08-27,36109,820,72,Aug
+672,Turing & The Halting Problem - Computerphile,2014-08-21,819914,15513,1623,Aug
+673,The (pink) VR Simulator - Computerphile,2014-08-14,63893,1482,112,Aug
+674,EXTRA BITS: The Danger Theory Explained - Computerphile,2014-08-12,28899,704,30,Aug
+675,The Danger Theory - Computerphile,2014-08-10,73065,1438,85,Aug
+676,Internationalis(z)ing Code - Computerphile,2014-08-04,1041459,38217,2683,Aug
+677,The Future of Desktop Computing? - Computerphile,2014-07-28,91954,1848,663,Jul
+678,Public Key Cryptography - Computerphile,2014-07-22,833306,23911,1258,Jul
+679,Real Life Holodeck with an Oculus Rift - Computerphile,2014-07-17,313423,4169,302,Jul
+680,Artificial Immune Systems - Computerphile,2014-07-15,74882,1776,79,Jul
+681,Emoji and the Levitating Businessman - Computerphile,2014-07-09,494877,11846,1009,Jul
+682,The Virtual Reality Cave - Computerphile,2014-07-04,94665,2428,233,Jul
+683,The Most Difficult Program to Compute? - Computerphile,2014-07-01,1387881,26332,2164,Jul
+684,In Flight Virtual Reality - Computerphile,2014-06-27,58583,1228,162,Jun
+685,How Computer Memory Works - Computerphile,2014-06-23,824786,14048,770,Jun
+686,Fibonacci Programming - Computerphile,2014-06-17,243114,4686,235,Jun
+687,"Crashes, Cosmic Rays and Kernel Panic - Computerphile",2014-06-13,141037,2975,194,Jun
+688,Fuzzy Logic - Computerphile,2014-06-11,366956,6490,348,Jun
+689,How Cell Phones Reveal Your Location - Computerphile,2014-06-04,193758,3474,219,Jun
+690,Coding by SMS text message - Computerphile,2014-05-30,141912,3080,322,May
+691,Reverse Polish Grows on Trees - Computerphile,2014-05-28,90467,2562,136,May
+692,Just How do Macs and PCs Differ? - Computerphile,2014-05-23,1130622,15529,1649,May
+693,Mac or PC? - Computerphile,2014-05-21,604846,10176,2085,May
+694,What on Earth is Recursion? - Computerphile,2014-05-16,719426,23909,1316,May
+695,Opening up the 30yr old Mac - Computerphile,2014-05-13,171800,3527,256,May
+696,Privacy in Social Media - Computerphile,2014-05-07,47989,1498,80,May
+697,YouTube Search & Discovery - Computerphile,2014-05-02,52678,1699,211,May
+698,YouTube's Secret Algorithm - Computerphile,2014-04-24,329181,6641,442,Apr
+699,"Heartbleed, Running the Code - Computerphile",2014-04-18,455791,7432,386,Apr
+700,Is it the End for Moore's Law? - Computerphile,2014-04-16,289903,4733,170,Apr
+701,Programming in PostScript - Computerphile,2014-04-11,243444,5165,204,Apr
+702,The Tweeting Vending Machine Hack - Computerphile,2014-04-07,244307,4041,142,Apr
+703,Animated GIFs and Space vs Time - Computerphile,2014-04-02,642522,15540,560,Apr
+704,Should Everybody Learn to Code? - Computerphile,2014-03-28,152164,3339,343,Mar
+705,Home-Made Z80 Retro Computer - Computerphile,2014-03-26,114790,2542,132,Mar
+706,Reverse Polish Notation and The Stack - Computerphile,2014-03-21,295647,9274,345,Mar
+707,What is Bootstrapping? - Computerphile,2014-03-19,415982,6571,131,Mar
+708,The Attack That Could Disrupt The Whole Internet - Computerphile,2014-03-14,1568679,37223,494,Mar
+709,The Dawn of Desktop Publishing - Computerphile,2014-03-12,83973,1926,87,Mar
+710,EXTRA BITS - Installing Ubuntu Permanently - Computerphile,2014-03-07,40572,659,55,Mar
+711,EXTRA BITS - Making a Bootable USB in Linux - Computerphile,2014-03-07,28373,409,27,Mar
+712,EXTRA BITS - Hacktop Real-Time Boot Comparison - Computerphile,2014-03-07,30282,444,84,Mar
+713,XP to Ubuntu with an 8yr old Hacktop - Computerphile,2014-03-05,238761,3840,663,Mar
+714,EXTRA BITS - What Makes a Computer? - Computerphile,2014-02-28,39203,784,19,Feb
+715,Credit Cards and Invisible Computing - Computerphile,2014-02-25,68098,1511,178,Feb
+716,EXTRA BITS - More on the Original Mac at 30 - Computerphile,2014-02-20,53920,1395,57,Feb
+717,The Little Mac with the Big Bite - Computerphile,2014-02-18,119422,3132,266,Feb
+718,EXTRA BITS: Big Data and T's & C's - Computerphile,2014-02-11,46884,1135,49,Feb
+719,P vs NP on TV - Computerphile,2014-02-08,565739,8786,273,Feb
+720,Blindly Accepting Terms and Conditions? - Computerphile,2014-02-05,325549,5845,316,Feb
+721,The Font Magicians - Computerphile,2014-01-31,363798,7503,134,Jan
+722,Smack a Mac (25 years of stress relief) - Computerphile,2014-01-24,173777,4920,241,Jan
+723,Floating Point Numbers - Computerphile,2014-01-22,2273576,59054,819,Jan
+724,Typesetters in the '80s - Computerphile,2014-01-17,99791,2430,81,Jan
+725,EXTRA BITS: More on Barcodes - Computerphile,2014-01-15,31796,928,22,Jan
+726,The Penguin Barcode - Computerphile,2014-01-14,154278,3933,265,Jan
+727,Lights and Shadows in Graphics - Computerphile,2014-01-10,157365,4178,249,Jan
+728,The Visibility Problem - Computerphile,2014-01-03,157818,3433,220,Jan
+729,The Problem with Time & Timezones - Computerphile,2013-12-30,3886355,136307,2021,Dec
+730,Arduino: Hobbyist Electronics to Orbit! - Computerphile,2013-12-22,161646,3287,175,Dec
+731,Triangles to Pixels - Computerphile,2013-12-18,226518,4671,196,Dec
+732,EXTRA BITS - Printing and Typesetting History - Computerphile,2013-12-15,77601,1835,74,Dec
+733,The Great 202 Jailbreak - Computerphile,2013-12-12,515114,8212,252,Dec
+734,The True Power of the Matrix (Transformations in Graphics) - Computerphile,2013-12-07,558245,11109,451,Dec
+735,Cross Site Request Forgery - Computerphile,2013-12-03,728228,17720,347,Dec
+736,A Universe of Triangles - Computerphile,2013-11-29,450121,9271,512,Nov
+737,A New Golden Age of Video Games - Computerphile,2013-11-22,75969,1703,237,Nov
+738,How NOT to Store Passwords! - Computerphile,2013-11-20,2233450,57760,1609,Nov
+739,How YouTube Works - Computerphile,2013-11-15,507651,8130,792,Nov
+740,Hashing Algorithms and Security - Computerphile,2013-11-08,1441308,30901,384,Nov
+741,Texting Cabbage with a Recorder - Computerphile,2013-11-06,54583,1019,165,Nov
+742,EXTRA BITS - Text Compression Meets Probabilities - Computerphile,2013-11-05,68832,1838,73,Nov
+743,Elegant Compression in Text (The LZ 77 Method) - Computerphile,2013-11-01,477948,9786,307,Nov
+744,Cloud Computing (Cloudy with a Chance of Pizza) - Computerphile,2013-10-28,53193,942,258,Oct
+745,Cracking Websites with Cross Site Scripting - Computerphile,2013-10-23,1495858,37362,899,Oct
+746,EXTRA BITS/TRITS - Huffman Trees - Computerphile,2013-10-21,56335,1597,149,Oct
+747,How Huffman Trees Work - Computerphile,2013-10-18,247172,4703,211,Oct
+748,"The Grid, CERN's Global Supercomputer - Computerphile",2013-10-15,105076,2228,236,Oct
+749,Hacking Websites with SQL Injection - Computerphile,2013-10-09,2396746,48391,882,Oct
+750,EXTRA BITS - Data Security and Flash Memory - Computerphile,2013-10-07,71767,1532,94,Oct
+751,Virtual Machines Power the Cloud - Computerphile,2013-10-05,130069,2770,145,Oct
+752,Encryption and Security Agencies - Computerphile,2013-10-02,121198,2257,129,Oct
+753,EXTRA BITS - UTF-8 'nearly' works - Computerphile,2013-09-30,165384,3146,130,Sep
+754,How Intelligent is Artificial Intelligence? - Computerphile,2013-09-27,302770,5576,590,Sep
+755,Gesture Controls - Computerphile,2013-09-24,49063,1335,157,Sep
+756,"Characters, Symbols and the Unicode Miracle - Computerphile",2013-09-20,1864616,52548,597,Sep
+757,Security of Data on Disk - Computerphile,2013-09-17,210009,4121,217,Sep
+758,Home-Made Code - Computerphile,2013-09-13,278634,3972,521,Sep
+759,Error Correction - Computerphile,2013-09-10,242698,5014,315,Sep
+760,CERN Computing Centre (and mouse farm) - Computerphile,2013-09-06,158269,4256,407,Sep
+761,Programming Paradigms - Computerphile,2013-08-30,667339,11831,966,Aug
+762,Network Address Translation - Computerphile,2013-08-27,150461,3895,205,Aug
+763,EXTRA BITS - Behind the scenes on Computerphile - Computerphile,2013-08-22,47373,1965,183,Aug
+764,EXTRA BITS - More about Punch Cards - Computerphile,2013-08-22,66973,1710,106,Aug
+765,Punch Card Programming - Computerphile,2013-08-21,847543,17588,451,Aug
+766,Birthplace of the World Wide Web - Computerphile,2013-08-14,70395,2246,262,Aug
+767,What if the Universe is a Computer Simulation? - Computerphile,2013-08-06,823565,17370,1552,Aug
+768,Programming BASIC and Sorting - Computerphile,2013-08-04,233928,4305,478,Aug
+769,Error Detection and Flipping the Bits - Computerphile,2013-07-31,116280,3274,290,Jul
+770,A Career in Video Games - Computerphile,2013-07-27,89733,2721,475,Jul
+771,IP Addresses and the Internet - Computerphile,2013-07-24,137426,2900,206,Jul
+772,Mainframes and the Unix Revolution - Computerphile,2013-07-19,423695,9385,591,Jul
+773,Circuit Board Building Robot - Computerphile,2013-07-16,66515,1893,192,Jul
+774,Network Stacks and the Internet - Computerphile,2013-07-11,162229,4086,364,Jul
+775,Original Elite on the BBC B - Computerphile,2013-07-05,179895,4875,529,Jul
+776,Entropy in Compression - Computerphile,2013-07-02,383379,8779,654,Jul
+777,Hyper History and Cyber War - Computerphile,2013-06-28,115611,3051,267,Jun
+778,Quick Sort - Computerphile,2013-06-25,368089,9360,372,Jun
+779,Compression - Computerphile,2013-06-21,417032,8317,473,Jun
+780,Getting Sorted & Big O Notation - Computerphile,2013-06-18,308519,8371,543,Jun
+781,BBC B Microcomputer - Computerphile,2013-06-14,110738,3279,441,Jun
+782,Near to the Metal - Computerphile,2013-06-12,186827,5049,321,Jun
+783,Raspberry Pi Hardware - Computerphile,2013-06-07,268666,5329,692,Jun
+784,Email - Computerphile,2013-06-05,98141,2683,321,Jun
+785,The Art of Abstraction - Computerphile,2013-05-31,259039,8338,806,May
+786,The Hair Algorithm - Computerphile,2013-05-28,143595,3180,548,May
+787,Musical Floppy Drives - Computerphile,2013-05-24,222443,5607,385,May
+788,EXTRA BITS - Follow the Cookie Trail - Computerphile,2013-05-23,89354,2464,280,May
+789,Follow the Cookie Trail - Computerphile,2013-05-21,260130,6579,634,May
+790,Homemade Video Arcade Machine - Computerphile,2013-05-17,186189,5628,594,May
+791,Welcome to Computerphile!,2013-04-15,183877,6074,3003,Apr
