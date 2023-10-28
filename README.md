@@ -26,5 +26,5 @@ These Youtube channels would typically provide tutorials or guided projects shar
   - Number of collected videos
   - Average video views
   - Average channel subscription count
-4. Step 4: Feature extraction
-5. Step 5: Visualize 
+4. Step 4: Topic extraction from video titles
+5. Step 5: Visualize
