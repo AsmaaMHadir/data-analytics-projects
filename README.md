@@ -18,13 +18,13 @@ These Youtube channels would typically provide tutorials or guided projects shar
 - Data Analysis: Pandas, Numpy.
 - Data Visualization: Seaborn, Matplotlib
  
-  1. Step 1: Data Extraction
-  ( include snippet of the dataset)
-  2. Step 2: Data cleansing
-  3. Step 3: Dataset statistics
-    - Number of youtube channels
-    - Number of collected videos
-    - Average video views
-    - Average channel subscription count
-  4. Step 4: Feature extraction
-  5. Step 5: Visualize 
+1. Step 1: Data Extraction
+( include snippet of the dataset)
+2. Step 2: Data cleansing
+3. Step 3: Dataset statistics
+  - Number of youtube channels
+  - Number of collected videos
+  - Average video views
+  - Average channel subscription count
+4. Step 4: Feature extraction
+5. Step 5: Visualize 
