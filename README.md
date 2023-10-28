@@ -8,7 +8,7 @@ Tools I use:
   - Python for multi-purpose data wrangling and analysis ( Matplotlib, seaborn, Pandas, Numpy )
   - Selenium, BeautifulSoup for data scraping and automation
 
-# Projects outline:
+# Projects outline: 
 
 ## 1- [Tech Youtube Channels Analysis](https://github.com/AsmaaMHadir/data-analytics-projects/tree/main/Youtube%20Channels%20Analysis/notebooks): How did the content trends for AI, Data Science, and Machine Learning Youtube channels change within the last 5 years? 
 In this project, I collect data about some of the biggest and active Youtube channels that provide educational content about Machine Learning and Data Science in order to extract insights about which topics were popular each year for the last 5 years from 2018 arriving to 2023. 
@@ -27,4 +27,4 @@ These Youtube channels would typically provide tutorials or guided projects shar
     - Average video views
     - Average channel subscription count
   3- Step 4: Feature extraction
-  4- Visualize 
+  4- Step 5: Visualize 
