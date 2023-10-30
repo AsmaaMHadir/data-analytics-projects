@@ -32,7 +32,11 @@ In this project, I collect data about some of the biggest and active Youtube cha
 - DeepLearning.TV
 - Arxiv Insights
 
-These channels are features in multiple `top AI channels to subscribe to` lists and have seen a big growth in the last couple of years on Youtube. They all have a creation date since or before 2018.
+These channels are features in multiple `top AI channels to subscribe to` lists and have seen a big growth in the last couple of years on Youtube. They all have a creation date since or before 2018. 
+
+![ChannelsViewCount](https://github.com/AsmaaMHadir/data-analytics-projects/assets/46932156/1478fac2-ddec-4040-adb5-1ec3a6c40c11)
+![ChannelSubsCount](https://github.com/AsmaaMHadir/data-analytics-projects/assets/46932156/550a3ee9-5e23-450e-90d7-8f6f8b33c1aa)
+![ChannelsVideosCount](https://github.com/AsmaaMHadir/data-analytics-projects/assets/46932156/67defc5e-71b6-4343-b199-b9c84d12b306)
 
 ### How?
 Using Python and the Youtube API, I built a dataset composed of over 6000 rows and 6 columns storing videos from the most popular 12 AI and Machine Learning channels on youtube (mentioned above). 
