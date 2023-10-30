@@ -42,7 +42,9 @@ Using Python and the Youtube API, I built a dataset composed of over 6000 rows a
 - Data Visualization: Seaborn, Matplotlib
 
 ## Resulting Dataset 
+
 Link for your own analysis :) : [Dataset](https://github.com/AsmaaMHadir/data-analytics-projects/blob/main/Youtube%20Channels%20Analysis/notebooks/AI_ML_YT_Videos.csv)
+
 <img width="585" alt="dataset" src="https://github.com/AsmaaMHadir/data-analytics-projects/assets/46932156/e4b37db7-2140-4f3d-bf03-8cab465492da">
 
 Top 10 most viewed videos in the dataset
