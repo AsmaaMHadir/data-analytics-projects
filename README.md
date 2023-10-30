@@ -48,8 +48,7 @@ Top 10 most viewed videos in the dataset
 
 <img width="625" alt="top" src="https://github.com/AsmaaMHadir/data-analytics-projects/assets/46932156/3a343600-ed2a-42c7-b700-f304935c2128">
 
-If you would like to have access to the dataset for your own analysis, I will be including a Kaggle link very soon.
-
+- Link for your own analysis :) : [Dataset](https://github.com/AsmaaMHadir/data-analytics-projects/blob/main/Youtube%20Channels%20Analysis/notebooks/AI_ML_YT_Videos.csv)
 2. Step 2: Data cleansing
 3. Step 3: Dataset statistics
   - Number of youtube channels
