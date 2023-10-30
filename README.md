@@ -31,6 +31,7 @@ In this project, I collect data about some of the biggest and active Youtube cha
 - Jeff Heaton
 - DeepLearning.TV
 - Arxiv Insights
+
 These channels are features in multiple `top AI channels to subscribe to` lists and have seen a big growth in the last couple of years on Youtube. They all have a creation date since or before 2018.
 
 ### How?
@@ -43,7 +44,8 @@ Using Python and the Youtube API, I built a dataset composed of over 6000 rows a
 1. Resulting Dataset
 <img width="585" alt="dataset" src="https://github.com/AsmaaMHadir/data-analytics-projects/assets/46932156/e4b37db7-2140-4f3d-bf03-8cab465492da">
 
-Top 10 most viewed videos in the dataset:
+Top 10 most viewed videos in the dataset
+
 <img width="625" alt="top" src="https://github.com/AsmaaMHadir/data-analytics-projects/assets/46932156/3a343600-ed2a-42c7-b700-f304935c2128">
 
 If you would like to have access to the dataset for your own analysis, I will be including a Kaggle link very soon.
