@@ -12,18 +12,36 @@ Tools I use:
 
 ## 1- [Trends in AI Youtube Videos](https://github.com/AsmaaMHadir/data-analytics-projects/tree/main/Youtube%20Channels%20Analysis/notebooks): How did the content trends for AI, Data Science, and Machine Learning Youtube channels change within the last 5 years? 
 
-The last couple of years had been marked by an anwavering advancement in the field of Machine Learning, especially in Natural Language Processing with LLMs and generative AI dominating the public discussion. With the topic's popularity came a rush into "open-sourcing" the knowledge needed to be a practitioned in the Data Science and ML industries to the public. From tutorials and crash courses in Deep Learning frameworks and introducing data pre-processing concepts to research paper readings, Yootube became the biggest learning hub for anyone who wants to learn about building and using AI models for their own purposes or develop practical skills to become a data and AI professional.
-
-In this project, I collect data about some of the biggest and active Youtube channels that provide educational content about Machine Learning and Data Science in order to extract insights about which topics had been popular within the last 5 years from 2018 arriving to 2023. 
-
+### Introduction
+The last couple of years had been marked by an anwavering advancement in the field of Machine Learning, especially in Natural Language Processing with LLMs and generative AI dominating the public discussion. With the topic's popularity came a rush into "open-sourcing" the knowledge needed to be a practitioned in the Data Science and ML industries to the public. From tutorials and crash courses in Deep Learning frameworks and introducing data pre-processing concepts to research paper readings, Yootube became the biggest learning hub for anyone who wants to learn about building and using AI models for their own purposes or develop practical skills to become a data and AI professional. 
 These Youtube channels would typically provide tutorials or guided projects sharing knowledge about frameworks, tools, languages, architectures etc. as well as advice and insights about the applied Machine Leatrning and Data Scientist profession. The dataset excludes specialized channels that provide content in a specific area such as data analysis.
 
-- Data Source: Youtube API provides access to rich data about youtube channels.
+### What?
+In this project, I collect data about some of the biggest and active Youtube channels that provide educational content about Machine Learning and Data Science in order to extract insights about which topics had been popular within the last 5 years from 2018 arriving to 2023. The channels in question are:
+
+- Krish Naik
+- Nicholas Renotte
+- Sentdex
+- DeepLearningAI
+- Artificial Intelligence — All in One
+- Siraj Raval
+- Jeremy Howard
+- Applied AI Course
+- Daniel Bourke
+- Jeff Heaton
+- DeepLearning.TV
+- Arxiv Insights
+
+### How?
+Using Python and the Youtube API, I built a dataset composed of over 6000 rows and 6 columns storing videos from the most popular 12 AI and Machine Learning channels on youtube (mentioned above).
+
+- Data Source: Youtube API.
 - Data Analysis: Pandas, Numpy.
 - Data Visualization: Seaborn, Matplotlib
  
-1. Step 1: Data Extraction
-( include snippet of the dataset)
+1. Resulting Dataset
+<img width="585" alt="dataset" src="https://github.com/AsmaaMHadir/data-analytics-projects/assets/46932156/e4b37db7-2140-4f3d-bf03-8cab465492da">
+
 2. Step 2: Data cleansing
 3. Step 3: Dataset statistics
   - Number of youtube channels
