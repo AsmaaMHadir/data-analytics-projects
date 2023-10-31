@@ -60,4 +60,12 @@ Top 10 most viewed videos in the dataset
 
 <img width="625" alt="top" src="https://github.com/AsmaaMHadir/data-analytics-projects/assets/46932156/3a343600-ed2a-42c7-b700-f304935c2128">
 
+## Visualizations
 
+### Word Cloud of the dominanat terms in videos' titles
+
+![wordCloud](https://github.com/AsmaaMHadir/data-analytics-projects/assets/46932156/b81b2d0e-fb19-490c-b96b-79c70778e021)
+
+### Terms frequency in videos' titles
+
+![newplot](https://github.com/AsmaaMHadir/data-analytics-projects/assets/46932156/b3769156-5678-4ca2-8780-903bed6ed0f9)
