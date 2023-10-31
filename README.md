@@ -60,11 +60,4 @@ Top 10 most viewed videos in the dataset
 
 <img width="625" alt="top" src="https://github.com/AsmaaMHadir/data-analytics-projects/assets/46932156/3a343600-ed2a-42c7-b700-f304935c2128">
 
-2. Step 2: Data cleansing
-3. Step 3: Dataset statistics
-  - Number of youtube channels
-  - Number of collected videos
-  - Average video views
-  - Average channel subscription count
-4. Step 4: Topic extraction from video titles
-5. Step 5: Visualize
+
