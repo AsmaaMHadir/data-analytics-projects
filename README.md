@@ -69,3 +69,6 @@ Top 10 most viewed videos in the dataset
 ### Terms frequency in videos' titles
 
 ![newplot](https://github.com/AsmaaMHadir/data-analytics-projects/assets/46932156/b3769156-5678-4ca2-8780-903bed6ed0f9)
+
+### Year by year analysis
+(include grid with word clouds)
