@@ -17,7 +17,7 @@ The last couple of years had been marked by an anwavering advancement in the fie
 These Youtube channels would typically provide tutorials or guided projects sharing knowledge about frameworks, tools, languages, architectures etc. as well as advice and insights about the applied Machine Leatrning and Data Scientist profession. The dataset excludes specialized channels that provide content in a specific area such as data analysis.
 
 ### What?
-In this project, I collect data about some of the biggest and active Youtube channels that provide educational content about Machine Learning and Data Science in order to extract insights about which topics had been popular within the last 5 years from 2018 arriving to 2023. The channels in question are:
+In this project, I collect data about some of the biggest and active Youtube channels that provide educational content about Machine Learning and Data Science in order to extract insights about which topics had been popular within the last 6 years from 2018 arriving to 2023. The channels in question are:
 
 - Krish Naik
 - Nicholas Renotte
@@ -34,25 +34,13 @@ In this project, I collect data about some of the biggest and active Youtube cha
 
 These channels are features in multiple `top AI channels to subscribe to` lists and have seen a big growth in the last couple of years on Youtube. They all have a creation date since or before 2018. 
 
-- Number of views per channel: 
-![ChannelsViewCount](https://github.com/AsmaaMHadir/data-analytics-projects/assets/46932156/1478fac2-ddec-4040-adb5-1ec3a6c40c11)
-
-- Number of subscribers per channel: 
-![ChannelSubsCount](https://github.com/AsmaaMHadir/data-analytics-projects/assets/46932156/550a3ee9-5e23-450e-90d7-8f6f8b33c1aa)
-
-- Number of uploaded videos per channel: 
-![ChannelsVideosCount](https://github.com/AsmaaMHadir/data-analytics-projects/assets/46932156/67defc5e-71b6-4343-b199-b9c84d12b306)
 
 ### How?
-Using Python and the Youtube API, I built a dataset composed of over 6000 rows and 6 columns storing videos from the most popular 12 AI and Machine Learning channels on youtube (mentioned above). 
 
-- Data Source: Youtube API.
-- Data Analysis: Pandas, Numpy.
-- Data Visualization: Seaborn, Matplotlib
+Using Python and the Youtube API, I built a dataset of YouTube videos composed of over 6000 rows and 6 columns. 
+Link for your own analysis: [Dataset](https://www.kaggle.com/datasets/asmaahadir/aiml-youtube-channels-content-2018-2019/data)
 
 ## Resulting Dataset 
-
-Link for your own analysis :) : [Dataset](https://github.com/AsmaaMHadir/data-analytics-projects/blob/main/Youtube%20Channels%20Analysis/notebooks/AI_ML_YT_Videos.csv)
 
 <img width="585" alt="dataset" src="https://github.com/AsmaaMHadir/data-analytics-projects/assets/46932156/e4b37db7-2140-4f3d-bf03-8cab465492da">
 
@@ -62,13 +50,31 @@ Top 10 most viewed videos in the dataset
 
 ## Visualizations
 
-### Word Cloud of the dominanat terms in videos' titles
+- Number of views per channel: 
+![ChannelsViewCount](https://github.com/AsmaaMHadir/data-analytics-projects/assets/46932156/1478fac2-ddec-4040-adb5-1ec3a6c40c11)
+
+- Number of subscribers per channel: 
+![ChannelSubsCount](https://github.com/AsmaaMHadir/data-analytics-projects/assets/46932156/550a3ee9-5e23-450e-90d7-8f6f8b33c1aa)
+
+- Number of uploaded videos per channel: 
+![ChannelsVideosCount](https://github.com/AsmaaMHadir/data-analytics-projects/assets/46932156/67defc5e-71b6-4343-b199-b9c84d12b306)
+
+## Text Mining
+
+### Most popular topics among the videos using BERTopic transformer
+
+![topics](https://github.com/AsmaaMHadir/data-analytics-projects/assets/46932156/c5fa3665-f4b9-4f45-85e2-e987e0c7df4e)
+
+
+### Videos' titles word cloud plot
 
 ![wordCloud](https://github.com/AsmaaMHadir/data-analytics-projects/assets/46932156/b81b2d0e-fb19-490c-b96b-79c70778e021)
+
 
 ### Terms frequency in videos' titles
 
 ![newplot](https://github.com/AsmaaMHadir/data-analytics-projects/assets/46932156/b3769156-5678-4ca2-8780-903bed6ed0f9)
 
-### Year by year analysis
-(include grid with word clouds)
+### Year by year word cloud plot
+
+![WC_years_grid](https://github.com/AsmaaMHadir/data-analytics-projects/assets/46932156/4553b4c3-8f66-4571-ab8a-faf40fe2d142)
