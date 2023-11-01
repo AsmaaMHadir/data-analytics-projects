@@ -16,6 +16,7 @@ Common tools uses:
 ### 4. [Dataset](#dataset)
 ### 5. [Visualizations](#visualization)
 ### 6. [Text Mining](#text-mining)
+### 7. [Conclusions](#conclusions)
 
 
 
@@ -86,3 +87,5 @@ Top 10 most viewed videos in the dataset
 ### Year by year word cloud plot
 
 ![WC_years_grid](https://github.com/AsmaaMHadir/data-analytics-projects/assets/46932156/4553b4c3-8f66-4571-ab8a-faf40fe2d142)
+
+### Conclusions
