@@ -89,3 +89,11 @@ Top 10 most viewed videos in the dataset
 ![WC_years_grid](https://github.com/AsmaaMHadir/data-analytics-projects/assets/46932156/4553b4c3-8f66-4571-ab8a-faf40fe2d142)
 
 ### Conclusions
+
+- The grid showcasing topics as well as th word cloud visuals shows that YouTube content in the educational AI sphere focuses on machine learning algirithms, Python learning, hardware awareness ( GPUs), popular frameworks such as Tensorflow and Kera and recently content about MLOps and machine learning models in production became prevalent. This could be explained by the surge to building customized and ready to use products reliant on machine learning models, and public's access to resources to train new models or fine-tune pre-trained ones.
+  
+- 2018: learners are being introduced to neural networks and deep learning overall as well as the potential of Python language in this area.
+- 2019: Data science gains momentum among the AI learners community. IBM Watson is also among the most discussed topics.
+- 2020 - 2021: content focused on being job ready for data science and machine learning engineering positions increases in popularity through interview prep and portfolio building video content.
+- 2022: MLOps enters the scene as the last couple of years lead to an amassed enormous rich knowledge about building models and incorporating them in production software became a widely discussed topic ( AI is more accessible and open source than ever!).
+- 2023: Most content is around ChatGPT and LLMs overall, stable diffusion, and the PyTorch framework. 
